@@ -110,7 +110,7 @@ Cavvy 10 的发布需满足以下全部条件：
 | 文档                   | 链接/编号                                         | 状态                                   |
 | ---------------------- | ------------------------------------------------- | -------------------------------------- |
 | Cavvy 语言规范         | [caydocs.ethernos.net](https://caydocs.ethernos.net) | **占位符**，待 ECSIPR 发布后更新 |
-| ESSO-11420             | Ethernos 软件安全标准                             | 已生效                                 |
+| ESSO-10400             | Ethernos 软件安全基础框架                             | 已生效                                 |
 | Cavvy 8.3 LTS 测试规范 | 内部文档                                          | 待 LTS 冻结时发布                      |
 
 > **注**：Cavvy 语言规范当前以 [caydocs.ethernos.net](https://caydocs.ethernos.net) 为临时参考源。待 **ECSIPR**（Ethernos Cavvy Standardization & Implementation Proposal Registry）正式建立后，将迁移至规范化的标准文档体系。
